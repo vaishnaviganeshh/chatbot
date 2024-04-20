@@ -1,0 +1,19 @@
+bot : Hi There! I am a banking chatbot. You can begin conversation by typing in a message and pressing enter.
+user : hi
+bot : - Hello. How are you today?
+user : im fine
+bot : - What queries do you have regarding mobile banking.
+user : how to see my balance
+bot : - To be eligible for a house loan please contact our bank service providers with all existing loan details along with 3 cancelled cheque leaves
+user : ok
+bot : - What queries do you have regarding mobile banking.
+user : im happy
+bot : - Not much. How are you today?
+user : thanks
+bot : - always welcome
+user : 
+bot : - Check the account statement online,Open a fixed deposit account,Pay utility bills such as water bill and electricity bill,Make merchant payments,Transfer funds,Order for a cheque book,Buy general insurance and Recharge prepaid mobile/DTH.
+user : 
+bot : - Welcome to the Banking portal. [Ask me how I can help you]
+user : 
+bot : - Please take the following Documents and approach the closest branch .1) Income Tax Returns of the propreitor for last the 3 years 2)Company Agreement 3) Pan card
